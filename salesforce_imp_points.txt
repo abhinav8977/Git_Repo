@@ -1,0 +1,31 @@
+https://ap8.salesforce.com/0010o00002DECM4
+https://mindmajix.com/salesforce-interview-questions
+
+
+0010o00002DECM4AAP
+
+In Unlimited
+===============
+
+1) we can have 2000 objects
+2) we can build unlimited applications
+3)Each object can have 800  custom fields
+
+
+
+
+In Free edition
+=================
+
+1)In free edition we can have 400 objects
+2)We can build 10 applications
+3)Each oject can have 500 custom  fields
+
+
+records will save 15 days in recyclebin
+
+
+
+*An object can have 25 external Id fields
+
+ 
